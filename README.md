@@ -37,13 +37,14 @@
 
 ###
 
-<img align="right" height="150" src="image.png"  />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrr1go07/rodrr1go07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrr1go07/rodrr1go07/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rodrr1go07/rodrr1go07/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img align="left" height="150" src="image.png"  />
+
 ###
